@@ -1,0 +1,29 @@
+PHP Class to parse iTunes Library XML Files.
+See example.php for example usage.
+
+The library is an array of track objects. The track object
+has no methods, but contains the following properties:
+
+Track_ID
+Name
+Artist
+Album
+Genre
+Kind
+Size
+Total_Time
+Track_Number
+Year
+Date_Modified
+Date_Added
+Bit_Rate
+Sample_Rate
+Comments
+Play_Count
+Play_Date
+Play_Date_UTC
+Persistent_ID
+Track_Type
+Location
+File_Folder_Count
+Library_Folder_Count
