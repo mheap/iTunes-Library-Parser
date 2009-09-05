@@ -5,7 +5,7 @@
  * and output them in a table, providing a list of tracks for you to re-rip
  */
 
-require 'itunes.php';
+require 'iTunesLibrary.php';
 
 $library = new iTunesLibrary("Library.xml");
 
